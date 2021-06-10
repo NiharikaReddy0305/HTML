@@ -1,0 +1,185 @@
+<html>
+
+<title>My_Project</title>
+    
+    
+
+<body>
+    
+     <h1>QUESTION PAPER </h1> 
+    <h2>GENERAL KNOWLEDGE</h2>
+    
+    <form></form>
+    <p> USER NAME: <input type="text" placeholder="USERNAME" ></p>
+    <p> PASSWORD <input type="text" placeholder="PASSWORD" ></p>
+    <p> REMEMBER YOUR PASSWORD <input type="checkbox" checked ></p>
+    <p>choose your subject:
+    <select>
+        <option> SUBJECTS</option>
+        <option>
+        general knowledge</option>
+        <option>mathematics</option>
+        <option>physics</option>
+        </select>
+    </p>
+    <hr>
+    <table>  
+        <p>Q.Who Is Our CM ? </p>
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 1.KCR</td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 2.JaiLalitha</td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 3.STALIN </td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 4.KEJRIVAL</td>
+        </tr>
+        
+        
+    </table>
+    
+    <input type="submit" id="submit">
+    <hr>
+    
+     <table>
+    <p>Q.How many continents are there in the world? </p>
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 1.five</td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 2.six</td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 3.seven </td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 4.eight</td>
+        </tr>
+    </table>
+    
+    <input type="submit" id="submit">
+    <hr>
+   
+    
+<table>
+    <p>Q.What is the capital of INDIA? </p>
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 1.Hyderabad</td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 2.Delhi</td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 3.Mumbai </td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+            <td> 4.Chennai</td>
+    </table>
+    
+    <input type="submit" id="submit">
+   
+    <hr>
+    <table>
+    <p>Q.Who is the first prime minister of INDIA? </p>
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 1.Jawaharlal Nehru</td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 2.Manmohan singh</td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 3.Indhira Gandhi </td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 4.Sarojini Naidu</td>
+        </tr>
+    </table>
+    
+    <input type="submit" id="submit">
+    <hr>
+    <table>
+    <p>Q.Who is the chief minister of Chennai</p>
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 1.Stalin</td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 2.Yeddurappa</td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 3.Rajinikanth </td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 4.Pawan kalyan</td>
+        </tr>
+    </table>
+    
+    <input type="submit" id="submit">
+    <hr>
+    <table>
+    <p>Q.What is the latest generation technology? </p>
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 1.2G</td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 2.3G</td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 3.4G </td>
+        </tr><br>
+        
+        <tr>
+                <td> <input type="radio" ></td>
+                 <td> 4.5G</td>
+        </tr>
+    </table>
+    
+    <input type="submit" id="submit">
+    <hr>
+    
+      
+</body>
+    
+</html>
