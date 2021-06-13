@@ -1,0 +1,227 @@
+<html>
+
+<title>My_Project</title>
+    
+    
+    <body>
+    <style type="text/css">
+       
+        
+    #blue{
+    
+    background-color : #deedf0 ;
+    }
+        #main-section{
+            
+            border-style:solid;
+            border-color:red;
+            border-width:5px 5px 5px 5px;
+            margin:5px 5px 5px 5px;
+            padding:10px;
+        }
+        #first-section{
+            color:darkcyan;
+            text-align:center;
+            font-family:sans-serif;
+            font-style:bold;
+            
+        }
+        #second-section{
+            padding:30px;
+            font-style:italic;
+        }
+        .underline{
+            text-decoration:underline;
+        }
+        #last-section{
+            text-align: right;
+        }
+    </style>
+    
+        <div id="main-section">
+    <div id="blue"> 
+        
+    <div id="first-section">
+        
+        <h1>QUESTION PAPER </h1> 
+        <h2>GENERAL KNOWLEDGE</h2></div>
+    <div id="second-section">
+    <form></form>
+        
+    <p> USER NAME: <input type="text" placeholder="USERNAME"></p>
+    <p> PASSWORD <input type="text" placeholder="PASSWORD"></p>
+    <p> REMEMBER YOUR PASSWORD <input type="checkbox" checked=""></p>
+        <p>choose your subject:
+    <select>
+        <option> SUBJECTS</option>
+        <option>
+        general knowledge</option>
+        <option>mathematics</option>
+        <option>physics</option>
+        </select>
+        </p></div>
+        
+    <hr>
+        <div id="third-section">
+    <p> <span class="underline"> Q.Who Is Our CM ?</span></p>  <table>  
+        
+        <tbody><tr>
+                <td> <input type="radio"></td>
+                 <td> 1.KCR</td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 2.JaiLalitha</td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 3.STALIN </td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 4.KEJRIVAL</td>
+        </tr>
+        
+        
+    </tbody></table>
+    
+    <input type="submit" id="submit">
+    <hr>
+    
+            <p><span class="underline">Q.How many continents are there in the world?</span> </p><table>
+    
+        <tbody><tr>
+                <td> <input type="radio"></td>
+                 <td> 1.five</td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 2.six</td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 3.seven </td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 4.eight</td>
+        </tr>
+    </tbody></table>
+    
+    <input type="submit" id="submit">
+    <hr>
+   
+    
+            <p><span class="underline">Q.What is the capital of INDIA? </span></p><table>
+    
+        <tbody><tr>
+                <td> <input type="radio"></td>
+                 <td> 1.Hyderabad</td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 2.Delhi</td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 3.Mumbai </td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+            <td> 4.Chennai</td>
+    </tr></tbody></table>
+    
+    <input type="submit" id="submit">
+   
+    <hr>
+            <p><span class="underline">Q.Who is the first prime minister of INDIA? </span></p><table>
+    
+        <tbody><tr>
+                <td> <input type="radio"></td>
+                 <td> 1.Jawaharlal Nehru</td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 2.Manmohan singh</td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 3.Indhira Gandhi </td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 4.Sarojini Naidu</td>
+        </tr>
+    </tbody></table>
+    
+    <input type="submit" id="submit">
+    <hr>
+            <p><span class="underline">Q.Who is the chief minister of Chennai</span></p><table>
+    
+        <tbody><tr>
+                <td> <input type="radio"></td>
+                 <td> 1.Stalin</td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 2.Yeddurappa</td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 3.Rajinikanth </td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 4.Pawan kalyan</td>
+        </tr>
+    </tbody></table>
+    
+    <input type="submit" id="submit">
+    <hr>
+            <p><span class="underline">Q.What is the latest generation technology? </span></p><table>
+    
+        <tbody><tr>
+                <td> <input type="radio"></td>
+                 <td> 1.2G</td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 2.3G</td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 3.4G </td>
+        </tr>
+        
+        <tr>
+                <td> <input type="radio"></td>
+                 <td> 4.5G</td>
+        </tr>
+    </tbody></table>
+    
+    <input type="submit" id="submit">
+    <hr>
+        </div> 
+            </div>
+     <div id="last-section">
+         <input type="submit" value="END TEST">
+            </div>
+    
+</body></html>
